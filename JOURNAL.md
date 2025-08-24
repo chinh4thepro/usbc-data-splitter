@@ -14,3 +14,12 @@ Began working on project. Looked at the USB-C pinouts for both alternate modes a
 ![Schematic - Finalized](./Assets/Schematic_2.png)
 
 **Total time spent: ~2h**
+
+# August 23rd
+Okay... The USB-C footprints I chose are kinda annoying to work with. After messing around a little bit I found one that I liked and was able to route it. I also changed the schematic a little by changing one of the symbols. Exported for jlcpcb production. I fixed the 3d models for the foot print I used, then I exported the PCB as a step file for use in onshape. Did the casing for the board. Then worked on making this repository meet grounded requirements.
+
+![PCB](./Assets/PCB.png)
+![Case - In Progress](./Assets/Case_1.png)
+![Case - Finalized](./Assets/Case_2.png)
+
+**Total time spent: ~2h**
