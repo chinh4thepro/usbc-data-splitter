@@ -1,4 +1,7 @@
-KiCAD/#*#
-KiCAD/*.lck
-KiCAD/*backups
-KiCAD/*autosave*
+src/#*#
+src/*.lck
+src/*backups
+src/*autosave*
+src/*datasheets*
+src/*.step
+src/*.stl
